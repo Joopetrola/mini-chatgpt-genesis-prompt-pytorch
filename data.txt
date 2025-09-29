@@ -1,0 +1,121 @@
+# Mini-dataset inteligente para Gênesis 1 e 2
+# Formato:
+# [PERGUNTA] ... → indica início da pergunta
+# [RESPOSTA] ... [FIM] → indica a resposta e seu fim
+# [TEXTO] ... → texto narrativo
+# [CONTINUACAO] ... [FIM] → continuação do texto
+
+[PERGUNTA] O que você é?
+[RESPOSTA] Um modelo de A.I que responde Génesis. [FIM]
+
+# ====================
+# Primeiro dia – luz
+[PERGUNTA] Como Deus criou a luz?
+[RESPOSTA] Deus disse: Haja luz; e houve luz. [FIM]
+[PERGUNTA] De que forma Deus produziu a luz?
+[RESPOSTA] Deus disse: Haja luz; e houve luz. [FIM]
+[PERGUNTA] Qual foi a primeira criação de Deus?
+[RESPOSTA] Deus disse: Haja luz; e houve luz. [FIM]
+[PERGUNTA] O que Deus fez para gerar a luz?
+[RESPOSTA] Deus disse: Haja luz; e houve luz. [FIM]
+[PERGUNTA] Como a luz surgiu no início?
+[RESPOSTA] Deus disse: Haja luz; e houve luz. [FIM]
+[PERGUNTA] Quem trouxe a luz para o mundo?
+[RESPOSTA] Deus disse: Haja luz; e houve luz. [FIM]
+[PERGUNTA] Qual foi o ato de Deus que criou a luz?
+[RESPOSTA] Deus disse: Haja luz; e houve luz. [FIM]
+[PERGUNTA] Como se deu a criação da luz?
+[RESPOSTA] Deus disse: Haja luz; e houve luz. [FIM]
+[PERGUNTA] Como Deus fez para iluminar a terra?
+[RESPOSTA] Deus disse: Haja luz; e houve luz. [FIM]
+[PERGUNTA] O que foi criado no primeiro dia?
+[RESPOSTA] Deus disse: Haja luz; e houve luz. [FIM]
+[PERGUNTA] Qual a primeira obra de Deus?
+[RESPOSTA] Deus disse: Haja luz; e houve luz. [FIM]
+[PERGUNTA] Deus criou o que primeiro?
+[RESPOSTA] Deus disse: Haja luz; e houve luz. [FIM]
+[PERGUNTA] Como foi feita a separação da luz e trevas?
+[RESPOSTA] Deus disse: Haja luz; e houve luz. [FIM]
+[PERGUNTA] Qual foi o primeiro dia da criação?
+[RESPOSTA] Deus disse: Haja luz; e houve luz. [FIM]
+[PERGUNTA] Deus criou a luz de que maneira?
+[RESPOSTA] Deus disse: Haja luz; e houve luz. [FIM]
+
+# ====================
+# Segundo dia – expansão dos céus
+[PERGUNTA] O que Deus criou no segundo dia?
+[RESPOSTA] Deus disse: Haja uma expansão no meio das águas, separando águas de águas. Deus chamou à expansão Céus. [FIM]
+[PERGUNTA] Como Deus separou as águas?
+[RESPOSTA] Deus disse: Haja uma expansão no meio das águas, separando águas de águas. Deus chamou à expansão Céus. [FIM]
+[PERGUNTA] Qual foi a criação do segundo dia?
+[RESPOSTA] Deus disse: Haja uma expansão no meio das águas, separando águas de águas. Deus chamou à expansão Céus. [FIM]
+[PERGUNTA] Como Deus fez os céus?
+[RESPOSTA] Deus disse: Haja uma expansão no meio das águas, separando águas de águas. Deus chamou à expansão Céus. [FIM]
+[PERGUNTA] De que forma a expansão foi feita?
+[RESPOSTA] Deus disse: Haja uma expansão no meio das águas, separando águas de águas. Deus chamou à expansão Céus. [FIM]
+[PERGUNTA] Qual foi a obra de Deus no segundo dia?
+[RESPOSTA] Deus disse: Haja uma expansão no meio das águas, separando águas de águas. Deus chamou à expansão Céus. [FIM]
+[PERGUNTA] Como Deus separou o céu das águas?
+[RESPOSTA] Deus disse: Haja uma expansão no meio das águas, separando águas de águas. Deus chamou à expansão Céus. [FIM]
+[PERGUNTA] Qual foi a criação do céu?
+[RESPOSTA] Deus disse: Haja uma expansão no meio das águas, separando águas de águas. Deus chamou à expansão Céus. [FIM]
+[PERGUNTA] O que surgiu entre as águas no segundo dia?
+[RESPOSTA] Deus disse: Haja uma expansão no meio das águas, separando águas de águas. Deus chamou à expansão Céus. [FIM]
+[PERGUNTA] Como Deus organizou os céus e águas?
+[RESPOSTA] Deus disse: Haja uma expansão no meio das águas, separando águas de águas. Deus chamou à expansão Céus. [FIM]
+
+# ====================
+# Terceiro dia – terra, mares e plantas
+[PERGUNTA] O que Deus criou no terceiro dia?
+[RESPOSTA] Deus ajuntou as águas num lugar e apareceu a porção seca; chamou à seca Terra e às águas Mares. Deus disse: Produza a terra relva, erva que dê semente, e árvore frutífera que dê fruto segundo a sua espécie. [FIM]
+[PERGUNTA] Qual foi a criação do terceiro dia?
+[RESPOSTA] Deus ajuntou as águas num lugar e apareceu a porção seca; chamou à seca Terra e às águas Mares. Deus disse: Produza a terra relva, erva que dê semente, e árvore frutífera que dê fruto segundo a sua espécie. [FIM]
+[PERGUNTA] O que surgiu na terra no terceiro dia?
+[RESPOSTA] Deus ajuntou as águas num lugar e apareceu a porção seca; chamou à seca Terra e às águas Mares. Deus disse: Produza a terra relva, erva que dê semente, e árvore frutífera que dê fruto segundo a sua espécie. [FIM]
+[PERGUNTA] Como Deus produziu plantas e árvores?
+[RESPOSTA] Deus ajuntou as águas num lugar e apareceu a porção seca; chamou à seca Terra e às águas Mares. Deus disse: Produza a terra relva, erva que dê semente, e árvore frutífera que dê fruto segundo a sua espécie. [FIM]
+[PERGUNTA] Como surgiram os mares e a terra?
+[RESPOSTA] Deus ajuntou as águas num lugar e apareceu a porção seca; chamou à seca Terra e às águas Mares. Deus disse: Produza a terra relva, erva que dê semente, e árvore frutífera que dê fruto segundo a sua espécie. [FIM]
+[PERGUNTA] O que Deus fez com a vegetação?
+[RESPOSTA] Deus ajuntou as águas num lugar e apareceu a porção seca; chamou à seca Terra e às águas Mares. Deus disse: Produza a terra relva, erva que dê semente, e árvore frutífera que dê fruto segundo a sua espécie. [FIM]
+[PERGUNTA] De que forma Deus criou árvores e plantas?
+[RESPOSTA] Deus ajuntou as águas num lugar e apareceu a porção seca; chamou à seca Terra e às águas Mares. Deus disse: Produza a terra relva, erva que dê semente, e árvore frutífera que dê fruto segundo a sua espécie. [FIM]
+
+# ====================
+# Quarto dia – sol, lua e estrelas
+[PERGUNTA] O que Deus criou no quarto dia?
+[RESPOSTA] Deus fez os luminares na expansão dos céus: o sol para governar o dia, a lua para governar a noite, e as estrelas. [FIM]
+[PERGUNTA] Como Deus criou o sol, a lua e as estrelas?
+[RESPOSTA] Deus fez os luminares na expansão dos céus: o sol para governar o dia, a lua para governar a noite, e as estrelas. [FIM]
+[PERGUNTA] Qual foi a criação do quarto dia?
+[RESPOSTA] Deus fez os luminares na expansão dos céus: o sol para governar o dia, a lua para governar a noite, e as estrelas. [FIM]
+[PERGUNTA] Para que servem os luminares do quarto dia?
+[RESPOSTA] Deus fez os luminares na expansão dos céus: o sol para governar o dia, a lua para governar a noite, e as estrelas. [FIM]
+[PERGUNTA] Como Deus iluminou o céu no quarto dia?
+[RESPOSTA] Deus fez os luminares na expansão dos céus: o sol para governar o dia, a lua para governar a noite, e as estrelas. [FIM]
+
+# ====================
+# Quinto dia – aves e peixes
+[PERGUNTA] O que Deus criou no quinto dia?
+[RESPOSTA] Deus criou os répteis de alma vivente nas águas, e as aves sobre a face da expansão dos céus. [FIM]
+[PERGUNTA] Como Deus fez os animais do céu e das águas?
+[RESPOSTA] Deus criou os répteis de alma vivente nas águas, e as aves sobre a face da expansão dos céus. [FIM]
+[PERGUNTA] Qual foi a criação do quinto dia?
+[RESPOSTA] Deus criou os répteis de alma vivente nas águas, e as aves sobre a face da expansão dos céus. [FIM]
+[PERGUNTA] Que criaturas Deus fez para o céu e as águas?
+[RESPOSTA] Deus criou os répteis de alma vivente nas águas, e as aves sobre a face da expansão dos céus. [FIM]
+[PERGUNTA] Como surgiram peixes e aves?
+[RESPOSTA] Deus criou os répteis de alma vivente nas águas, e as aves sobre a face da expansão dos céus. [FIM]
+
+# ====================
+# Sexto dia – animais terrestres e homem
+[PERGUNTA] O que Deus criou no sexto dia?
+[RESPOSTA] Deus criou os animais da terra conforme suas espécies, e criou o homem à sua imagem, macho e fêmea os criou. Deus os abençoou para frutificar, multiplicar-se e dominar a terra. [FIM]
+[PERGUNTA] Como Deus criou o homem e a mulher?
+[RESPOSTA] Deus formou o homem do pó da terra e soprou em suas narinas o fôlego de vida. Ele plantou um jardim no Éden e criou a mulher a partir do homem para ser sua companheira. [FIM]
+[PERGUNTA] Qual foi a criação mais importante do sexto dia?
+[RESPOSTA] Deus criou o homem à sua imagem, macho e fêmea os criou, e os abençoou para frutificar, multiplicar-se e dominar a terra. [FIM]
+[PERGUNTA] Como Deus produziu os animais da terra?
+[RESPOSTA] Deus criou os animais da terra conforme suas espécies. [FIM]
+[PERGUNTA] Qual é a ordem de criação do sexto dia?
+[RESPOSTA] Deus criou os animais da terra conforme suas espécies, e depois criou o homem e a mulher à sua imagem. [FIM]
